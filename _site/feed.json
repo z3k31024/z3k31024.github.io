@@ -1,0 +1,63 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Astitva &quot;z3k3&quot; Nikose",
+    "home_page_url": "http://localhost:4000/",
+    "feed_url": "http://localhost:4000/feed.json",
+    "description": "An Ordinary blog",
+    "icon": "http://localhost:4000/apple-touch-icon.png",
+    "favicon": "http://localhost:4000/favicon.ico",
+    "expired": false,
+    
+    "author":  {
+        "name": "astitva1024",
+        "url": "lmao.engineer",
+        "avatar": null
+    },
+    
+"items": [
+    
+        {
+            "id": "http://localhost:4000/2020/04/22/oneplus3t-hub",
+            "title": "Oneplus3T Hub",
+            "summary": null,
+            "content_text": "This post is entirely dedicated to Oneplus 3T deviceRoms:-Pie:-      Pixel Experience Rom        Havoc Os        Resurrection Remix        Colt-Enigma        BootleggersROM        Nitrogen Os        Skydragon Os        AICP        AOSiP        TugaPower        crDROID        Statix Os        Liquidremix        H4K3ROM        NLOS        Arrow Os        POSP        Mokee  Kernels:-For LOS/AOSP/CAF based pie roms:-      Mady’s Xtended Kernel        Holydragon Kernel        Franco Kernel        Caesium Kernel  Gcam:-      Telegram Group        Fix        SKULSHADY’s Gcam        BSG’s Gcam        Tolyan’s Gcam        Arnova8G2’s Gcam  Gapps:-  Opengapps.orgChoose “Arm64” , “8.1 or 9.0” and “nano or pico”Magisk:-How toDownloadBest ModulesRecommended Apps:-      Helix Engine        Greenify        Kernel Auditor        Ex Kernel Manager        Franco Kernel Manager        Spectrum  Try this Combinations:-      NitrogenOs(NOS)+Caesium kernel+Helix Engine        LineageOs(LOS)+Franco Kernel        LineageOs(LOS)+Boeffla Kernel        Havoc 2.0+Caesium kernel+Helix Engine        StatixOs+Caesium kernel+Helix Engine  ",
+            "content_html": "<p>This post is entirely dedicated to <strong>Oneplus 3T</strong> device</p><h2 id=\"roms-\">Roms:-</h2><h3 id=\"pie-\">Pie:-</h3><ol>  <li>    <p><a href=\"https://download.pixelexperience.org/oneplus3/\">Pixel Experience Rom</a></p>  </li>  <li>    <p><a href=\"https://sourceforge.net/projects/havoc-os/files/oneplus3/\">Havoc Os</a></p>  </li>  <li>    <p><a href=\"https://get.resurrectionremix.com/?dir=oneplus3\">Resurrection Remix</a></p>  </li>  <li>    <p><a href=\"https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-coltos-t3808635\">Colt-Enigma</a></p>  </li>  <li>    <p><a href=\"https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/unshishufied-bootleggersrom-t3872512\">BootleggersROM</a></p>  </li>  <li>    <p><a href=\"https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-nitrogen-os-beta-t3737654\">Nitrogen Os</a></p>  </li>  <li>    <p><a href=\"https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-skydragon-os-t3858177\">Skydragon Os</a></p>  </li>  <li>    <p><a href=\"https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/pre-official-aicp-14-0-t3899005\">AICP</a></p>  </li>  <li>    <p><a href=\"https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-aosip-pie-t3850374\">AOSiP</a></p>  </li>  <li>    <p><a href=\"https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-tugapower-9-0-t3899612\">TugaPower</a></p>  </li>  <li>    <p><a href=\"https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-crdroid-t3851471\">crDROID</a></p>  </li>  <li>    <p><a href=\"https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-statixos-t3887578\">Statix Os</a></p>  </li>  <li>    <p><a href=\"https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/unofficial-liquidremix-10-1-t3855131\">Liquidremix</a></p>  </li>  <li>    <p><a href=\"https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/h4k3rom-android-pie-oneplus3-gzosp-t3870594\">H4K3ROM</a></p>  </li>  <li>    <p><a href=\"https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-nlos-16-0-t3879405\">NLOS</a></p>  </li>  <li>    <p><a href=\"https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/unofficial-arrowos-9-x-t3842133\">Arrow Os</a></p>  </li>  <li>    <p><a href=\"https://sourceforge.net/projects/posp/files/oneplus3/weeklies/\">POSP</a></p>  </li>  <li>    <p><a href=\"https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-mokee-9-0-oneplus-3-3t-t3891741\">Mokee</a></p>  </li></ol><h2 id=\"kernels-\">Kernels:-</h2><h4 id=\"for-losaospcaf-based-pie-roms-\">For LOS/AOSP/CAF based pie roms:-</h4><ol>  <li>    <p><a href=\"https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/kernel-mady-s-xtended-kernel-t3739378\">Mady’s Xtended Kernel</a></p>  </li>  <li>    <p><a href=\"https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/kernel-holydragon-kernel-t3732974\">Holydragon Kernel</a></p>  </li>  <li>    <p><a href=\"https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/kernel-francokernel-18th-january-r45-t3891293\">Franco Kernel</a></p>  </li>  <li>    <p><a href=\"https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/kernel-caesium-kernel-op3-op3t-t3672090\">Caesium Kernel</a></p>  </li></ol><h2 id=\"gcam-\">Gcam:-</h2><ol>  <li>    <p><a href=\"https://t.me/GCam_SKULSHADY\">Telegram Group</a></p>  </li>  <li>    <p><a href=\"https://www.celsoazevedo.com/files/android/google-camera/op3fix/\">Fix</a></p>  </li>  <li>    <p><a href=\"https://www.celsoazevedo.com/files/android/google-camera/dev-skulshady/\">SKULSHADY’s Gcam</a></p>  </li>  <li>    <p><a href=\"https://www.celsoazevedo.com/files/android/google-camera/dev-bsg/\">BSG’s Gcam</a></p>  </li>  <li>    <p><a href=\"https://www.celsoazevedo.com/files/android/google-camera/dev-tolyan009/\">Tolyan’s Gcam</a></p>  </li>  <li>    <p><a href=\"https://www.celsoazevedo.com/files/android/google-camera/dev-arnova8G2/\">Arnova8G2’s Gcam</a></p>  </li></ol><h2 id=\"gapps-\">Gapps:-</h2><ol>  <li><a href=\"https://opengapps.org/\">Opengapps.org</a></li></ol><p>Choose “Arm64” , “8.1 or 9.0” and “nano or pico”</p><h2 id=\"magisk-\">Magisk:-</h2><p><a href=\"https://www.xda-developers.com/how-to-install-magisk/\">How to</a><a href=\"https://github.com/topjohnwu/Magisk/releases\">Download</a><a href=\"https://www.xda-developers.com/magisk-modules/\">Best Modules</a></p><h2 id=\"recommended-apps-\">Recommended Apps:-</h2><ol>  <li>    <p><a href=\"https://play.google.com/store/apps/details?id=com.teamhelix.helixengine\">Helix Engine</a></p>  </li>  <li>    <p><a href=\"https://play.google.com/store/apps/details?id=com.oasisfeng.greenify\">Greenify</a></p>  </li>  <li>    <p><a href=\"https://play.google.com/store/apps/details?id=com.grarak.kerneladiutor\">Kernel Auditor</a></p>  </li>  <li>    <p><a href=\"https://play.google.com/store/apps/details?id=flar2.exkernelmanager\">Ex Kernel Manager</a></p>  </li>  <li>    <p><a href=\"https://play.google.com/store/apps/details?id=com.franco.kernel\">Franco Kernel Manager</a></p>  </li>  <li>    <p><a href=\"https://play.google.com/store/apps/details?id=org.frap129.spectrum\">Spectrum</a></p>  </li></ol><h2 id=\"try-this-combinations-\">Try this Combinations:-</h2><ol>  <li>    <p>NitrogenOs(NOS)+Caesium kernel+Helix Engine</p>  </li>  <li>    <p>LineageOs(LOS)+Franco Kernel</p>  </li>  <li>    <p>LineageOs(LOS)+Boeffla Kernel</p>  </li>  <li>    <p>Havoc 2.0+Caesium kernel+Helix Engine</p>  </li>  <li>    <p>StatixOs+Caesium kernel+Helix Engine</p>  </li></ol>",
+            "url": "http://localhost:4000/2020/04/22/oneplus3t-hub",
+            
+            
+            
+            
+            
+            "date_published": "2020-04-22T00:00:00+05:30",
+            "date_modified": "2020-04-22T00:00:00+05:30",
+            
+                "author":  {
+                "name": "astitva1024",
+                "url": "lmao.engineer",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2020/04/22/getting-most-out-of-amoled",
+            "title": "Getting Most out of AMOLED",
+            "summary": null,
+            "content_text": "AMOLED (active-matrix organic light-emitting diode) is a display device technology used in smartwatches, mobile devices, laptops, and televisions. OLED describes a specific type of thin-film-display technology in which organic compounds form the electroluminescent material, and active matrix refers to the technology behind the addressing of pixels.tl;dr AMOLED makes colors in your phone more vibrantNowadays many smartphones are shipped with a AMOLED or OLED display and to enhance your experience here are some apps:-1.Swift BlackSwift Black is a “paid” substratum theme with more than 200 pitch black app overlays. Using pitch black seems to reduce battery usage.(*Note:- Requires Substratum Theme Engine)2.PitchBlackPitchBlack is a known full featured dark and black battery friendly android theme. Providing many apps and ROM support, perfecting the balance between materialism, minimalism and various epic color combinations.Meet the all original PitchBlack CMTE theme collections and more in one place!Re-iterating the way accents and backgrounds are applied, PitchBlack offers an easy solution to application of themes by automatically creating 130+ theme sets just for you! Just choose which combination you like, build and enable! That’s it!(*Note:- Requires Substratum Theme Engine and does not work on SAMSUNG , Xiaomi, LG, HUAWEI and any other OEM based stock ROMs)3.Always-On DisplayAlways-On Display or AOD is a feature available on certain smartphones. AOD allows you to customise your screen to show time, date, battery status, notifications, screen savers and more. It is important to know that AOD does consume energy.",
+            "content_html": "<p>AMOLED (active-matrix organic light-emitting diode) is a display device technology used in smartwatches, mobile devices, laptops, and televisions. OLED describes a specific type of thin-film-display technology in which organic compounds form the electroluminescent material, and active matrix refers to the technology behind the addressing of pixels.</p><pre><code>tl;dr AMOLED makes colors in your phone more vibrant</code></pre><p>Nowadays many smartphones are shipped with a AMOLED or OLED display and to enhance your experience here are some apps:-</p><h2 id=\"1swift-black\">1.<a href=\"https://play.google.com/store/apps/details?id=com.brit.swiftblack.layers&amp;hl=en_IN\">Swift Black</a></h2><p>Swift Black is a “paid” substratum theme with more than 200 pitch black app overlays. Using pitch black seems to reduce battery usage.</p><p>(*Note:- Requires Substratum Theme Engine)</p><h2 id=\"2pitchblack\">2.<a href=\"https://play.google.com/store/apps/details?id=pitchblack.origins.westcrip\">PitchBlack</a></h2><p>PitchBlack is a known full featured dark and black battery friendly android theme. Providing many apps and ROM support, perfecting the balance between materialism, minimalism and various epic color combinations.</p><p>Meet the all original PitchBlack CMTE theme collections and more in one place!Re-iterating the way accents and backgrounds are applied, PitchBlack offers an easy solution to application of themes by automatically creating 130+ theme sets just for you! Just choose which combination you like, build and enable! That’s it!</p><p>(*Note:- Requires Substratum Theme Engine and does not work on SAMSUNG , Xiaomi, LG, HUAWEI and any other OEM based stock ROMs)</p><h2 id=\"3always-on-display\">3.<a href=\"https://www.xda-developers.com/enable-always-on-display-any-phone/\">Always-On Display</a></h2><p>Always-On Display or AOD is a feature available on certain smartphones. AOD allows you to customise your screen to show time, date, battery status, notifications, screen savers and more. It is important to know that AOD does consume energy.</p>",
+            "url": "http://localhost:4000/2020/04/22/getting-most-out-of-amoled",
+            
+            
+            
+            
+            
+            "date_published": "2020-04-22T00:00:00+05:30",
+            "date_modified": "2020-04-22T00:00:00+05:30",
+            
+                "author": "z3k31024"
+            
+        }
+    
+    ]
+}

@@ -1,0 +1,67 @@
+site: Astitva "z3k31024" Nikose
+url: z3k31024.netlify.com
+title: Astitva "z3k31024" Nikose
+description: An Ordinary blog
+twitter:
+  username: astitva1024
+  card: summary
+  creator: astitva1024
+author:
+  twitter: astitva1024
+  name: astitva1024
+  avatar: https://avatars2.githubusercontent.com/u/29973343?s=460&u=597b7aeaae8f7339740623e569238aa22231bd95&v=4
+  email: z3k31024@protonmail.com
+  url: https://lmao.engineer
+permalink: pretty
+
+baseurl: ""
+
+highlighter: none
+
+exclude:
+  - .jekyll-cache
+  
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-analytics
+
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:slug
+  
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: UA-115054478-3          # Required - replace with your tracking id

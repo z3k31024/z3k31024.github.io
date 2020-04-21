@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Astitva "z3k3" Nikose</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2020-04-22T00:30:18+05:30</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>astitva1024</name>
+   <email>z3k31024@protonmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Oneplus3T Hub</title>
+   <link href="http://localhost:4000/2020/04/22/oneplus3t-hub"/>
+   <updated>2020-04-22T00:00:00+05:30</updated>
+   <id>http://localhost:4000/2020/04/22/oneplus3t-hub</id>
+   <content type="html">&lt;p&gt;This post is entirely dedicated to &lt;strong&gt;Oneplus 3T&lt;/strong&gt; device&lt;/p&gt;
+
+&lt;h2 id=&quot;roms-&quot;&gt;Roms:-&lt;/h2&gt;
+
+&lt;h3 id=&quot;pie-&quot;&gt;Pie:-&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://download.pixelexperience.org/oneplus3/&quot;&gt;Pixel Experience Rom&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://sourceforge.net/projects/havoc-os/files/oneplus3/&quot;&gt;Havoc Os&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://get.resurrectionremix.com/?dir=oneplus3&quot;&gt;Resurrection Remix&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-coltos-t3808635&quot;&gt;Colt-Enigma&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/unshishufied-bootleggersrom-t3872512&quot;&gt;BootleggersROM&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-nitrogen-os-beta-t3737654&quot;&gt;Nitrogen Os&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-skydragon-os-t3858177&quot;&gt;Skydragon Os&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/pre-official-aicp-14-0-t3899005&quot;&gt;AICP&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-aosip-pie-t3850374&quot;&gt;AOSiP&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-tugapower-9-0-t3899612&quot;&gt;TugaPower&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-crdroid-t3851471&quot;&gt;crDROID&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-statixos-t3887578&quot;&gt;Statix Os&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/unofficial-liquidremix-10-1-t3855131&quot;&gt;Liquidremix&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/h4k3rom-android-pie-oneplus3-gzosp-t3870594&quot;&gt;H4K3ROM&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-nlos-16-0-t3879405&quot;&gt;NLOS&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/unofficial-arrowos-9-x-t3842133&quot;&gt;Arrow Os&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://sourceforge.net/projects/posp/files/oneplus3/weeklies/&quot;&gt;POSP&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-mokee-9-0-oneplus-3-3t-t3891741&quot;&gt;Mokee&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;kernels-&quot;&gt;Kernels:-&lt;/h2&gt;
+
+&lt;h4 id=&quot;for-losaospcaf-based-pie-roms-&quot;&gt;For LOS/AOSP/CAF based pie roms:-&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/kernel-mady-s-xtended-kernel-t3739378&quot;&gt;Mady’s Xtended Kernel&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/kernel-holydragon-kernel-t3732974&quot;&gt;Holydragon Kernel&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/kernel-francokernel-18th-january-r45-t3891293&quot;&gt;Franco Kernel&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/kernel-caesium-kernel-op3-op3t-t3672090&quot;&gt;Caesium Kernel&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;gcam-&quot;&gt;Gcam:-&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://t.me/GCam_SKULSHADY&quot;&gt;Telegram Group&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.celsoazevedo.com/files/android/google-camera/op3fix/&quot;&gt;Fix&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.celsoazevedo.com/files/android/google-camera/dev-skulshady/&quot;&gt;SKULSHADY’s Gcam&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.celsoazevedo.com/files/android/google-camera/dev-bsg/&quot;&gt;BSG’s Gcam&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.celsoazevedo.com/files/android/google-camera/dev-tolyan009/&quot;&gt;Tolyan’s Gcam&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.celsoazevedo.com/files/android/google-camera/dev-arnova8G2/&quot;&gt;Arnova8G2’s Gcam&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;gapps-&quot;&gt;Gapps:-&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opengapps.org/&quot;&gt;Opengapps.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Choose “Arm64” , “8.1 or 9.0” and “nano or pico”&lt;/p&gt;
+
+&lt;h2 id=&quot;magisk-&quot;&gt;Magisk:-&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.xda-developers.com/how-to-install-magisk/&quot;&gt;How to&lt;/a&gt;
+&lt;a href=&quot;https://github.com/topjohnwu/Magisk/releases&quot;&gt;Download&lt;/a&gt;
+&lt;a href=&quot;https://www.xda-developers.com/magisk-modules/&quot;&gt;Best Modules&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;recommended-apps-&quot;&gt;Recommended Apps:-&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.teamhelix.helixengine&quot;&gt;Helix Engine&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.oasisfeng.greenify&quot;&gt;Greenify&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.grarak.kerneladiutor&quot;&gt;Kernel Auditor&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=flar2.exkernelmanager&quot;&gt;Ex Kernel Manager&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.franco.kernel&quot;&gt;Franco Kernel Manager&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=org.frap129.spectrum&quot;&gt;Spectrum&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;try-this-combinations-&quot;&gt;Try this Combinations:-&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;NitrogenOs(NOS)+Caesium kernel+Helix Engine&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;LineageOs(LOS)+Franco Kernel&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;LineageOs(LOS)+Boeffla Kernel&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Havoc 2.0+Caesium kernel+Helix Engine&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;StatixOs+Caesium kernel+Helix Engine&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Getting Most out of AMOLED</title>
+   <link href="http://localhost:4000/2020/04/22/getting-most-out-of-amoled"/>
+   <updated>2020-04-22T00:00:00+05:30</updated>
+   <id>http://localhost:4000/2020/04/22/getting-most-out-of-amoled</id>
+   <content type="html">&lt;p&gt;AMOLED (active-matrix organic light-emitting diode) is a display device technology used in smartwatches, mobile devices, laptops, and televisions. OLED describes a specific type of thin-film-display technology in which organic compounds form the electroluminescent material, and active matrix refers to the technology behind the addressing of pixels.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;tl;dr AMOLED makes colors in your phone more vibrant
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Nowadays many smartphones are shipped with a AMOLED or OLED display and to enhance your experience here are some apps:-&lt;/p&gt;
+
+&lt;h2 id=&quot;1swift-black&quot;&gt;1.&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.brit.swiftblack.layers&amp;amp;hl=en_IN&quot;&gt;Swift Black&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Swift Black is a “paid” substratum theme with more than 200 pitch black app overlays. Using pitch black seems to reduce battery usage.&lt;/p&gt;
+
+&lt;p&gt;(*Note:- Requires Substratum Theme Engine)&lt;/p&gt;
+
+&lt;h2 id=&quot;2pitchblack&quot;&gt;2.&lt;a href=&quot;https://play.google.com/store/apps/details?id=pitchblack.origins.westcrip&quot;&gt;PitchBlack&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;PitchBlack is a known full featured dark and black battery friendly android theme. Providing many apps and ROM support, perfecting the balance between materialism, minimalism and various epic color combinations.&lt;/p&gt;
+
+&lt;p&gt;Meet the all original PitchBlack CMTE theme collections and more in one place!
+Re-iterating the way accents and backgrounds are applied, PitchBlack offers an easy solution to application of themes by automatically creating 130+ theme sets just for you! Just choose which combination you like, build and enable! That’s it!&lt;/p&gt;
+
+&lt;p&gt;(*Note:- Requires Substratum Theme Engine and does not work on SAMSUNG , Xiaomi, LG, HUAWEI and any other OEM based stock ROMs)&lt;/p&gt;
+
+&lt;h2 id=&quot;3always-on-display&quot;&gt;3.&lt;a href=&quot;https://www.xda-developers.com/enable-always-on-display-any-phone/&quot;&gt;Always-On Display&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Always-On Display or AOD is a feature available on certain smartphones. AOD allows you to customise your screen to show time, date, battery status, notifications, screen savers and more. It is important to know that AOD does consume energy.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
