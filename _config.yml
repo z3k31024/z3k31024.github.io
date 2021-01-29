@@ -17,7 +17,7 @@ permalink: pretty
 baseurl: ""
 
 highlighter: none
-
+remote_theme: "dracula/gh-pages"
 exclude:
   - .jekyll-cache
   
